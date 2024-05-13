@@ -1,5 +1,5 @@
 # e-commerce_site_automation_using_cypress
-### This is a complete project where a demo e-commerce site [Magneto.com] (https://magento.softwaretestingboard.com/) is automated by writing test suites using Cypress-Nodejs in Page Object Model testing framework.
+### This is a complete project where a demo e-commerce site [Magneto.com](https://magento.softwaretestingboard.com/) is automated by writing test suites using Cypress-Nodejs in Page Object Model testing framework.
 **3 modules/page is automated:**
 - **Signup** </br>
 - **Login** </br>
