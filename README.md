@@ -18,34 +18,34 @@
 ## Installation
 **To set up the project, follow these steps:**
 
-Clone the repository to your local machine:
+***Clone the repository to your local machine:***
  ```
  git clone <repository_url> 
  ```
-Navigate ro project repository
+***Navigate ro project repository***
  ```
 cd <project_directory>
  ```
-Initialize npm
+***Initialize npm***
  ```
  npm init -y
  ```
-Install cypress
+***Install cypress***
  ```
  npm install cypress
  ```
-Configure package.json file to open cypress dashboard
+***Configure package.json file to open cypress dashboard***
  ```
  scripts": {
     "cypress:open": "cypress open",
   }
  ```
 ## Running Tests
-To run the tests in cypress dashboard, execute the following command:
+***To run the tests in cypress dashboard, execute the following command:***
  ```
  npx cypress open
  ```
-To run the test from the command line
+***To run the test from the command line***
  ```
  npx cypress run
  ```
