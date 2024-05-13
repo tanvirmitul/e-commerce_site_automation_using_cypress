@@ -12,11 +12,11 @@
 [TestRunner](https://github.com/tanvirmitul/e-commerce_site_automation_using_cypress/blob/main/cypress/e2e/test_runner/test_runner.cy.js)</br>
 
 ## Prerequisites
-*Before you begin, ensure you have the following prerequisites installed on your local machine:
+**Before you begin, ensure you have the following prerequisites installed on your local machine:**
 - Node.js and npm (or yarn)
 - Git
 ## Installation
-To set up the project, follow these steps:
+**To set up the project, follow these steps:**
 
 Clone the repository to your local machine:
  ```
